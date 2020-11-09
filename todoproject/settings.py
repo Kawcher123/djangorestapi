@@ -27,7 +27,7 @@ SECRET_KEY = '#!x-6wy(n786p7i3e2nc)^tg%etnu$r7edb#xq)bu!to#5n^oh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.0.2.2','127.0.0.1']
+ALLOWED_HOSTS = ['todoappdjanoapi.herokuapp.com','127.0.0.1']
 
 
 # Application definition
